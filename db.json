@@ -1,0 +1,11 @@
+{
+  "MultiRegression": [
+    {
+      "id": 1,
+      "changeNum": 3,
+      "addPoint": 1,
+      "arr_x" : [1,9,7],
+      "arr_y": [2,10,11]
+    }
+  ]
+}
